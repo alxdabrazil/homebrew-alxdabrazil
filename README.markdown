@@ -9,5 +9,7 @@ alxdabrazil homebrew
 
 **Installation**
 
-    brew tap alxdabrazil/homebrew
-    brew install alxdabrazil/homebrew/apache22
+    brew tap alxdabrazil/homebrew-alxdabrazil
+    brew install alxdabrazil/homebrew-alxdabrazil/apache22
+    OR
+    brew install alxdabrazil/homebrew-alxdabrazil/apache24
