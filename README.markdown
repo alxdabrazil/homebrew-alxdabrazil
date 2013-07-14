@@ -4,7 +4,7 @@ alxdabrazil homebrew
 [homebrew][h] stuff for my mac:
 - [Apache 2.2 with ldap][a]
 - [Apache 2.4 with ldap][a]
-- [phpMyAdmin 4.0.4.1][a]
+- [phpMyAdmin 4.0.4.1][p]
 
 [h]: https://github.com/mxcl/homebrew
 [a]: https://httpd.apache.org/
