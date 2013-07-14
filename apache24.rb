@@ -10,8 +10,7 @@ class Apache24 < Formula
 
   depends_on 'pcre'
 
-  # Apache 2.4 no longer bundles apr or apr-util so we have to fetch
-  # it manually for each build
+  # Apache 2.4 no longer bundles apr or apr-util so we have to fetch it manually for each build
   def fetch_apr
     ["apr-1.4.6", "apr-util-1.4.1"].each do |tb|
       curl "-s", "-o", "#{tb}.tar.gz", "https://www.apache.org/dist/apr/#{tb}.tar.gz"
